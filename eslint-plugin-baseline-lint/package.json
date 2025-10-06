@@ -18,8 +18,16 @@
     "web-features",
     "lint"
   ],
-  "author": "Your Name",
+  "author": "Krushana and Kalyani",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Krishnagavane9322/eslint-plugin-baseline-lint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Krishnagavane9322/eslint-plugin-baseline-lint/issues"
+  },
+  "homepage": "https://github.com/Krishnagavane9322/eslint-plugin-baseline-lint#readme",
   "dependencies": {
     "web-features": "^1.0.0"
   },
